@@ -507,7 +507,7 @@ http://210.210.155.35:80/dr9445/h/h10/01.m3u8
 #EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/tvrisporttv.png" group-title="Sports" ,TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/stadiumtv.png" group-title="Sports" ,STADIUM
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvTX8DxD/stadium-logo-640.jpg" group-title="Sports" ,STADIUM
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxk46HkJ0Dbo7k4SuxRllrtfRj9F7MxlS-4g&usqp=CAU" group-title="Sports",BEIN SPORTS 1 ID
