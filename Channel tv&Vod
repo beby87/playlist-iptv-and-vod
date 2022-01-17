@@ -546,7 +546,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
 
  
-#EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/automototv.png" group-title="Sports", AutoMoto
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KjPVVWPv/automoto.png" group-title="Sports", AutoMoto
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
