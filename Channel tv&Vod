@@ -1105,9 +1105,9 @@ http://www.goldentv.tech:25461/movie/Perfecto/170721/38678.
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38679.
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Mat Peci (Pembunuh Berdarah Dingin) (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQTUftug6xlepihXwVkwK7VbmSu.jpg" group-title="FILM INDONESIA CLASSIC",Mat Peci (Pembunuh Berdarah Dingin) (1978)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38680.
-#EXTINF:-1 tvg-id="" tvg-name="Musuh Bebuyutan (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cS0dcECfq25meSiLgx0ftHE1TkZ.jpg" group-title="FILM INDONESIA CLASSIC",Musuh Bebuyutan (1974)
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Musuh Bebuyutan (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cS0dcECfq25meSiLgx0ftHE1TkZ.jpg" group-title="FILM INDONESIA CLASSIC",Musuh Bebuyutan (1974)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38681.
-#EXTINF:-1 tvg-id="" tvg-name="Nagabonar (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWWEzS1ZmellxJmhApmMXvd98JA.jpg" group-title="FILM INDONESIA CLASSIC",Nagabonar (1986)
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Nagabonar (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWWEzS1ZmellxJmhApmMXvd98JA.jpg" group-title="FILM INDONESIA CLASSIC",Nagabonar (1986)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38682.
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Ngipri Monyet (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWWEzS1ZmellxJmhApmMXvd98JA.jpg" group-title="FILM INDONESIA CLASSIC",Ngipri Monyet (1988)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38683.
