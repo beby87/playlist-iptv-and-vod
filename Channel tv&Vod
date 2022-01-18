@@ -756,70 +756,70 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremiu
 
 //KNOWLEDGE
 
-#EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/inwildtv.png" group-title="Knowledge" ,Inwild TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgWjhZTG/inwild-use.png" group-title="Knowledge" ,Inwild TV
 https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/lovenaturetv.png" group-title="Knowledge" ,Love Nature HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsJB51TT/love-nature-4k.png" group-title="Knowledge" ,Love Nature HD
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/lovenaturetv.png" group-title="Knowledge" ,Love Nature SD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsJB51TT/love-nature-4k.png" group-title="Knowledge" ,Love Nature SD
 http://bamus-eng-roku.amagi.tv/playlist404p.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/smithsoniantv.png" group-title="Knowledge" ,Smithsonian Channel HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8tMVqrr/Smithsonian-Channel.png" group-title="Knowledge" ,Smithsonian Channel HD
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/smithsoniantv.png" group-title="Knowledge" ,Smithsonian Channel SD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8tMVqrr/Smithsonian-Channel.png" group-title="Knowledge" ,Smithsonian Channel SD
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/natgeopeopletv.png" group-title="Knowledge" ,Nat Geo People HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yJjSg9t/net-geo-people.png" group-title="Knowledge" ,Nat Geo People HD
 http://58.65.171.202:8000/play/10503/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/failarmytvtv.png" group-title="Knowledge" ,Fail Army
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bN6SR1Ds/failarmy-logo.png" group-title="Knowledge" ,Fail Army
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://kiwimelon.000webhostapp.com/logotv/historytv.png" group-title="Knowledge",History
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9QqtkxjD/History-Logo-svg.png" group-title="Knowledge",History
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/cgtntv.png" group-title="Knowledge",CGTN DOCUMENTARY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1nbsVVC/cgtn-logo.png" group-title="Knowledge",CGTN DOCUMENTARY
 https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://kiwimelon.000webhostapp.com/logotv/besmarttv.png" group-title="Knowledge",Besmart
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/0N052sqh/besmartkids.png" group-title="Knowledge",Besmart
 https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://kiwimelon.000webhostapp.com/logotv/discoverytv.png" group-title="Knowledge",Discovery
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cH0t1ht4/Discovery-Channel-logo-colored.png" group-title="Knowledge",Discovery
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://kiwimelon.000webhostapp.com/logotv/bbcearthtv.png" group-title="Knowledge",BBC Earth
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/PJgNvQV7/bbc-earth.png" group-title="Knowledge",BBC Earth
 https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://kiwimelon.000webhostapp.com/logotv/animalplanettv.png" group-title="Knowledge",Animal Planet
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9QVGQyRM/animal-planet.png" group-title="Knowledge",Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://kiwimelon.000webhostapp.com/logotv/natgeotv.png" group-title="Knowledge",Nat Geo Channel
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/xTZwrTct/net-geo-1.png" group-title="Knowledge",Nat Geo Channel
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://kiwimelon.000webhostapp.com/logotv/natgeowildtv.png" group-title="Knowledge",Nat Geo Wild
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cJcc0rkY/nsionl-geo-grafi.png" group-title="Knowledge",Nat Geo Wild
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://kiwimelon.000webhostapp.com/logotv/natgeopeopletv.png" group-title="Knowledge",Nat Geo People
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/0yJjSg9t/net-geo-people.png" group-title="Knowledge",Nat Geo People
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://kiwimelon.000webhostapp.com/logotv/crimeinvestigationtv.png" group-title="Knowledge",Crime Investigation
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3xRx1wz1/1280px-Crime-Investigation-Logo-10-2019-svg.png" group-title="Knowledge",Crime Investigation
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 //Religi
