@@ -1073,7 +1073,32 @@ http://www.goldentv.tech:25461/movie/Perfecto/170721/38340.m3u8
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Shook (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oa6hI8m0fcQCUXHkgYy7UpYsJ5e.jpg" group-title="VOD",Shook (2021)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38341.m3u8
 
+
+//VOD INDIA
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="The White Tiger (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7K4mdWaLGF2F4ASb2L12tlya9c9.jpg" group-title="VOD INDIA",The White Tiger (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/24442.mp4?dl=1
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Suraj Pe Mangal Bhari (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbwcuXBp554Ef6s9aFE1x5Wq1pV.jpg" group-title="VOD INDIA",Suraj Pe Mangal Bhari (2020)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/24443.mp4?dl=1
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="AK vs AK (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbwcuXBp554Ef6s9aFE1x5Wq1pV.jpg" group-title="VOD INDIA",AK vs AK (2020)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/24444.mp4?dl=1
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Torbaaz (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj44DlUalvtEKXI9Py6Xz8WypBZ.jpg" group-title="VOD INDIA",Torbaaz (2020)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/24445.mp4?dl=1
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Khuda Haafiz (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jc7rBpjqBmwmjdUgYDk2P3TzOjR.jpg" group-title="VOD INDIA",Khuda Haafiz (2020)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/24446.mp4?dl=1
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Lootcase (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wy2BMieuHqZYiWXKSW05YczlJJP.jpg" group-title="VOD INDIA",Lootcase (2020)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/24447.mp4?dl=1
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Serious Men (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRrVmiXapjHAcc3tW7wvY5n3WLi.jpg" group-title="VOD INDIA",Serious Men (2020)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/24449.mp4?dl=1
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Soorarai Pottru (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRrVmiXapjHAcc3tW7wvY5n3WLi.jpg" group-title="VOD INDIA",Soorarai Pottru (2020)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/24450.mp4?dl=1
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Darbar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPYRg4Kwwj3w3waMPjGM9M7cLpV.jpg" group-title="VOD INDIA",Darbar (2020)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/24451.mp4?dl=1
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Sab Kushal Mangal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMC6FqninqV8M7dJKIeM4Qwm6Gy.jpg" group-title="VOD INDIA",Sab Kushal Mangal (2020)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/24448.mp4?dl=1
+
+
 //KOREAN DRAMA
+
 
 #EXTINF:-1 type="series" tvg-logo="https://i.imgur.com/3EVXWH2.png" group-title="KOREAN DRAMA", 365 REPEAT THE YEAR 1
 https://www.dropbox.com/s/iuxboj4cv3617a2/%5BSHANA%5D365.Repeat.the.Year.E01-E02.200323.360p-NEXT.mp4?dl=1
@@ -1358,6 +1383,20 @@ https://www.dropbox.com/s/icpnq5bzlaistig/%5BSHANA%5DItaewon.Class.E14.200314.36
 https://www.dropbox.com/s/57976od61vr3n8u/%5BSHANA%5DItaewon.Class.E15.200320.360p-NEXT.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bA3dcs8.png" group-title="KOREAN DRAMA", ITAEWON CLASS 16
 https://www.dropbox.com/s/v01h009e3ni7vg4/%5BSHANA%5DItaewon.Class.E16.200321.360p-NEXT.mp4?dl
+
+//THE FLASH
+#EXTINF:-1 type="series" tvg-id="" tvg-name="EPISODE 7 - THE FLASH SEASON 6" tvg-logo="https://www.dropbox.com/s/c1vzi7ffgw12sta/the%20flash%20season%206.jpeg?dl=1" group-title="THE FLAST",EPISODE 7 - THE FLASH SEASON 6
+http://www.goldentv.tech:25461/movie/Perfecto/170721/14785.mp4?dl=1
+#EXTINF:-1 type="series" tvg-id="" tvg-name="EPISODE 6 - THE FLASH SEASON 6" tvg-logo="https://www.dropbox.com/s/c1vzi7ffgw12sta/the%20flash%20season%206.jpeg?dl=1" group-title="THE FLASH",EPISODE 6 - THE FLASH SEASON 6
+http://www.goldentv.tech:25461/movie/Perfecto/170721/14786.mp4?dl=1
+#EXTINF:-1 type="series" tvg-id="" tvg-name="EPISODE 5 - THE FLASH SEASON 6" tvg-logo="https://www.dropbox.com/s/c1vzi7ffgw12sta/the%20flash%20season%206.jpeg?dl=1" group-title="THE FLASH",EPISODE 5 - THE FLASH SEASON 6
+http://www.goldentv.tech:25461/movie/Perfecto/170721/14787.mp4?dl=1
+#EXTINF:-1 type="series" tvg-id="" tvg-name="EPISODE 4 - THE FLASH SEASON 6" tvg-logo="https://www.dropbox.com/s/c1vzi7ffgw12sta/the%20flash%20season%206.jpeg?dl=1" group-title="THE FLASH",EPISODE 4 - THE FLASH SEASON 6
+http://www.goldentv.tech:25461/movie/Perfecto/170721/14788.mp4?dl=1
+#EXTINF:-1 type="series" tvg-id="" tvg-name="EPISODE 3 - THE FLASH SEASON 6" tvg-logo="https://www.dropbox.com/s/c1vzi7ffgw12sta/the%20flash%20season%206.jpeg?dl=1" group-title="THE FLASH",EPISODE 3 - THE FLASH SEASON 6
+http://www.goldentv.tech:25461/movie/Perfecto/170721/14789.mp4?dl=1
+#EXTINF:-1 type="series" tvg-id="" tvg-name="EPISODE 1 - THE FLASH SEASON 6" tvg-logo="https://www.dropbox.com/s/c1vzi7ffgw12sta/the%20flash%20season%206.jpeg?dl=1" group-title="THE FLASH",EPISODE 1 - THE FLASH SEASON 6
+http://www.goldentv.tech:25461/movie/Perfecto/170721/14790.mp4?dl=1
 
 #EXTINF:-1 tvg-id="000" tvg-name="DESC"  group-title="Radio",
 www.goMYTVl.com
