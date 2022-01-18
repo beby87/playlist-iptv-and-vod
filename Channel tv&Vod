@@ -345,7 +345,7 @@ http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="tvN Movies" tvg-logo="https://kiwimelon.000webhostapp.com/logotv/tvnmoviestv.png" group-title="Movies",tvN Movies
+#EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="tvN Movies" tvg-logo="https://i.postimg.cc/RhshYCqc/OIP-2.jpg" group-title="Movies",tvN Movies
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjykxKYn/HBO-logo-black.png" group-title="Movies", HBO Malaysia
@@ -398,7 +398,7 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="https://kiwimelon.000webhostapp.com/logotv/cinemaworldtv.png" group-title="Movies",Cinema World
+#EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="https://i.postimg.cc/02zdmHYy/cine-world.png" group-title="Movies",Cinema World
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -413,12 +413,12 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClas
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="Star Chinese Movies" tvg-logo="https://kiwimelon.000webhostapp.com/logotv/startchinesemovietv.png" group-title="Movies",Star Chinese Movies
+#EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="Star Chinese Movies" tvg-logo="https://i.postimg.cc/0y0HbBGH/str-chinese-movie.png" group-title="Movies",Star Chinese Movies
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="SCMLegend.MACAN" tvg-name="SCM Legend" tvg-logo="https://kiwimelon.000webhostapp.com/logotv/startchinesemovielegendtv.png" group-title="Movies",Star Chinese Movies Legend
+#EXTINF:-1 tvg-id="SCMLegend.MACAN" tvg-name="SCM Legend" tvg-logo="https://i.postimg.cc/0y0HbBGH/str-chinese-movie.png" group-title="Movies",Star Chinese Movies Legend
 https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -428,7 +428,7 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Zee Cinema" tvg-name="ZEE Cinema" tvg-logo="https://kiwimelon.000webhostapp.com/logotv/zeecinematv.png" group-title="Movies",ZEE Cinema
+#EXTINF:-1 tvg-id="Zee Cinema" tvg-name="ZEE Cinema" tvg-logo="https://i.postimg.cc/8zC4yzgN/Zee-Cinema-HQ.png" group-title="Movies",ZEE Cinema
 https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYS9gRPy/k-plus.jpg" group-title="Movies" ,K+
@@ -446,7 +446,7 @@ http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYMJfrDk/tvn-movies-2.jpg" group-title="Movies" ,TVN MOVIES
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLKb41gz/cinema-world-lg.jpg" group-title="Movies" ,CINEMA WOLRD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02zdmHYy/cine-world.png" grpup-title="Moviesroup-title="" ,CINEMA WOLRD
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvMkLbc4/hits-lama.png" group-title="Movies" ,HITS
