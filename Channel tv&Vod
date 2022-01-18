@@ -995,7 +995,7 @@ http://www.goldentv.tech:25461/movie/Perfecto/170721/38252.m3u8
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38256.m3u8
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Battle in Space: The Armada Attacks (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gM5PP0EAGz4iKN1AcuOzSBumC1.jpg" group-title="VOD",Battle in Space: The Armada Attacks (2021)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38267.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Batman: Soul of the Dragon (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDhnTtSxU5a8DtZdbbin3aZmkmU.jpg" group-title="VOD",Batman: Soul of the Dragon (2021)
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Batman: Soul of the Dragon (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDhnTtSxU5a8DtZdbbin3aZmkmU.jpg" group-title="VOD",Batman: Soul of the Dragon (2021)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38261.m3u8
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Dead in the Water (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvF85F5NhTtdneJPp0xfPXwrCzM.jpg" group-title="VOD",Dead in the Water (2021)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38264.m3u8
@@ -1009,10 +1009,69 @@ http://www.goldentv.tech:25461/movie/Perfecto/170721/38447.
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38281.m3u8
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Palmer (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg" group-title="VOD",Palmer (2021)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38284.m3u8
-#EXTINF:-1 type+"movie" tvg-id="" tvg-name="HellKat (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gs8sv4M0sdJWwbedlq9XvCPFKXs.jpg" group-title="VOD",HellKat (2021)
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="HellKat (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gs8sv4M0sdJWwbedlq9XvCPFKXs.jpg" group-title="VOD",HellKat (2021)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38286.m3u8
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Kill Cavalry (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2gSemOsLwp7PHThlDNNPTmvEhc.jpg" group-title="VOD",Kill Cavalry (2021)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38289.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Cosmic Sin (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Wm7P6y22UZA40QuPYHyWyJ6leI.jpg" group-title="VOD",Cosmic Sin (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38240.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Crisis (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15e2VcMTtk3pqgGlHWxisvygFAw.jpg" group-title="VOD",Crisis (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38294.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="The College Admissions Scandal (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3opxN2OTpXdbVFXsJVR5LSsHruE.jpg" group-title="VOD",The College Admissions Scandal (2019)
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Road to Damascus (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRwCVZeTuL1QQFX4LqKg1d8RK1k.jpg" group-title="VOD",Road to Damascus (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38296.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="One and the Same (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRa0lQ3lCiUiSykw6Fw0TVBArp1.jpg" group-title="VOD",One and the Same (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38297.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="The Dead of Night (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3nM9SB8hSbueG5LzV565UH02uE.jpg" group-title="VOD",The Dead of Night (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38300.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="The Girl on the Train (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Zvov912Mm0mrjR5nEGbSujjnGE.jpg" group-title="VOD",The Girl on the Train (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38423.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Body Brokers (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNQUUrtlN79pDIMAPigX8NUvNW2.jpg" group-title="VOD",Body Brokers (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38302.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Silk Road (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KxiEWyIDpz1ikmD7nv3GTX4Uoj.jpg" group-title="VOD",Silk Road (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38303.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Alice Fades Away (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPY393a6ABPZfmQYrGfBc54vSqi.jpg" group-title="VOD",Alice Fades Away (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38305.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Faceless (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0uLZZ56clKhgyLY4dLDJ5ddGCp.jpg" group-title="VOD",Faceless (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38307.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="I, Portrait (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oj4RgpjlitdP7H8CRg3S4cHbj48.jpg" group-title="VOD",I, Portrait (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38308.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Doors (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGPUXyhQTOqskKdDOD3Fmicqfc0.jpg" group-title="VOD",Doors (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38312.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Expiry (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aX3C0CR3fnW2TwVLj5SvVWeDgXd.jpg" group-title="VOD",Expiry (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38313.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Judas and the Black Messiah (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg" group-title="VOD",Judas and the Black Messiah (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38386.mp4
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Phobias (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpecci4IooFiwMVGknhm8Jz2FHo.jpg" group-title="VOD",Phobias (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38319.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="60 Seconds to Die 3 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igbtr1SBtxdYRXbFRo4ZmfDOhFa.jpg" group-title="VOD",60 Seconds to Die 3 (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38320.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Dreamcatcher (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CF743g2BpC8r3mCVV9gSX2yQBj.jpg" group-title="VOD",Dreamcatcher (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38321.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Stay Out of the Attic (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEKQjLYZiIy78eEiMrtBfqSm3LU.jpg" group-title="VOD",Stay Out of the Attic (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38322.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Come True (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGPGRRz6FTIRed1zestdWrV2Iwd.jpg" group-title="VOD",Come True (2020)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38323.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Horror The Toll (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KWOqcSmIhIev5nhXajIAxAwyZ.jpg" group-title="VOD",Horror The Toll (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38325.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Horror The Seventh Day (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtt2dfMdmlCcgaJZkPPQsIY5oR6.jpg" group-title="VOD",Horror The Seventh Day (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38324.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="American Liar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRmYuV0VcrpTaS4AkX1l2NHvH99.jpg" group-title="VOD",American Liar (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38329.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Held (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8NqVX14i0d9gmKsZFcTRa8xuac.jpg" group-title="VOD",Held (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38331.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Dawn of the Beast (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZGx57ShJ3IUeZNxEbOMinW4wea.jpg" group-title="VOD",Dawn of the Beast (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38333.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Wrong Turn (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4U1SBHmwHkNA0eHZ2n1CuiC1K1g.jpg" group-title="VOD",Wrong Turn (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38335.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Sator (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0OgWKpcRYboZOmuozorfvQt0qL.jpg" group-title="VOD",Sator (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38336.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="The Canyonlands (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYmh79O7rujbbGNJmsFU93LtpVe.jpg" group-title="VOD",The Canyonlands (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38338.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="The Red Nightmare (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRqRl7wWcATwjg8ioAkDy1bG8Sb.jpg" group-title="VOD",The Red Nightmare (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38340.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Shook (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oa6hI8m0fcQCUXHkgYy7UpYsJ5e.jpg" group-title="VOD",Shook (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38341.m3u8
 
 //KOREAN DRAMA
 
