@@ -767,7 +767,7 @@ https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.co
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8tMVqrr/Smithsonian-Channel.png" group-title="Knowledge" ,Smithsonian Channel SD
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yJjSg9t/net-geo-people.png" group-title="Knowledge" ,Nat Geo People HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncn6s4VW/1642477706280.png" group-title="Knowledge" ,Nat Geo People HD
 http://58.65.171.202:8000/play/10503/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bN6SR1Ds/failarmy-logo.png" group-title="Knowledge" ,Fail Army
@@ -814,7 +814,7 @@ https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/0yJjSg9t/net-geo-people.png" group-title="Knowledge",Nat Geo People
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ncn6s4VW/1642477706280.png" group-title="Knowledge",Nat Geo People
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
