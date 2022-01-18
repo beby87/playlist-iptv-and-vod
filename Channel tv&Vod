@@ -193,7 +193,7 @@ https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wjsN7Mx1/rtv.png" group-title="INDONESIA CHANNEL",RTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BZrKzzrr/1200px-Rajawali-Televisi-svg.png" group-title="INDONESIA CHANNEL",RTV
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
