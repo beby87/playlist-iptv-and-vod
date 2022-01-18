@@ -947,7 +947,7 @@ http://www.goldentv.tech:25461/movie/Perfecto/170721/16917.
 http://www.goldentv.tech:25461/movie/Perfecto/170721/15122.
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="My Soul to Keep (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/goJ7Raosf7mKHuMzEzdRkC3gKXk.jpg" group-title="VOD",My Soul to Keep (2020)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/14825.
-#EXTINF:-1 type=:movie" tvg-id="" tvg-name="Skyscraper (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NL1FiTEhU4SWOuWk8lkVCbmnYm.jpg" group-title="VOD",Skyscraper (2018)
+#EXTINF:-1 type=:"movie" tvg-id="" tvg-name="Skyscraper (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NL1FiTEhU4SWOuWk8lkVCbmnYm.jpg" group-title="VOD",Skyscraper (2018)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/14816.mp4
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="The Amazing Spider-Man (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIfkQNARYyERqRAq1p1c8xgePp4.jpg" group-title="VOD",The Amazing Spider-Man (2012)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/14833.
