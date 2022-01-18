@@ -253,9 +253,6 @@ https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 //news
 
-#EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/seatodaytv.png" group-title="News" , SEA Today _USEETV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6faa8040da20ef399b63a72d0e4ab575dfdded94c48ea6229c48edefa9ec1c9f
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="SEA Today" tvg-logo="https://kiwimelon.000webhostapp.com/logotv/seatodaytv.png" group-title="News",SEA Today
@@ -346,20 +343,17 @@ http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
 
 //MOVIES
 
-#EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/chinesedramatv.png" group-title="Movies" , Chinese Drama _USEETV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="tvN Movies" tvg-logo="https://kiwimelon.000webhostapp.com/logotv/tvnmoviestv.png" group-title="Movies",tvN Movies
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-#EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/hbotv.png" group-title="Movies", HBO Malaysia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjykxKYn/HBO-logo-black.png" group-title="Movies", HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBO Family" tvg-logo="https://kiwimelon.000webhostapp.com/logotv/hbofamilytv.png" group-title="Movies",HBO Family
+#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBO Family" tvg-logo="https://i.postimg.cc/Hx4jHJLc/hbo-fmily.png" group-title="Movies",HBO Family
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -374,7 +368,7 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="HITS" tvg-logo="https://kiwimelon.000webhostapp.com/logotv/hitstv.png" group-title="Movies",HITS
+#EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="HITS" tvg-logo="https://i.postimg.cc/BvMkLbc4/hits-lama.png" group-title="Movies",HITS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -384,7 +378,7 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="https://i.postimg.cc/bJwP4r36/png-clipart-axn-television-channel-pay-television-logo-others-miscellaneous-television.png" group-title="Movies",AXN
+#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="https://i.postimg.cc/CLSp6Y4B/axn-logo-vector-png-file-axn-white-hd-png-782.png" group-title="Movies",AXN
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -429,7 +423,7 @@ https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Zee.MACAN" tvg-name="ZEE Bioskop" tvg-logo="https://kiwimelon.000webhostapp.com/logotv/zeebioskoptv.png" group-title="Movies",ZEE Bioskop
+#EXTINF:-1 tvg-id="Zee.MACAN" tvg-name="ZEE Bioskop" tvg-logo="https://i.postimg.cc/RVYkvK0W/Zee-Bioskop.png" group-title="Movies",ZEE Bioskop
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -443,7 +437,7 @@ http://210.210.155.35:80/uq2663/h/h08/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zfTxJPZ/one.jpg" group-title="Movies" ,ONE
 http://210.210.155.35:80/uq2663/h/h143/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/gemtv.png" group-title="Movies" ,GEM
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FHWBPcG/gem.png" group-title="Movies" ,GEM
 http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhshYCqc/OIP-2.jpg" group-title="Movies" ,TVN ASIA
@@ -452,31 +446,25 @@ http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYMJfrDk/tvn-movies-2.jpg" group-title="Movies" ,TVN MOVIES
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/celestialmovietv.png" group-title="Movies" ,CELESTIAL MOVIES
-http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLKb41gz/cinema-world-lg.jpg" group-title="Movies" ,CINEMA WOLRD
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvMkLbc4/hits-lama.png" group-title="Movies" ,HITS
 http://210.210.155.35:80/dr9445/h/h37/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/rockentertainmenttv.png" group-title="Movies" ,ROCK ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Cxc1xZk9/rock.jpg" group-title="Movies" ,ROCK ENTERTAINMENT
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/rockextremetv.png" group-title="Movies" ,ROCK EXTREME
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNTPDkhc/extreme-multimedia-page-banner-logo-2x.png" group-title="Movies" ,ROCK EXTREME
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/mycntv.png" group-title="Movies" ,MY CN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59ZHWMpM/my-cinema-mandarin-channel-tv-logo.png" group-title="Movies" ,MY CN
 http://210.210.155.35:80/uq2663/h/h90/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/mycetv.png" group-title="Movies" ,MY CE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHGFKzBg/my-ce.jpg" group-title="Movies" ,MY CE
 http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/zeebioskoptv.png" group-title="Movies" ,ZEEBIOSKOP
-http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://kiwimelon.000webhostapp.com/logotv/thrilltv.png" group-title="Movies" ,THRILL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvsmWb1/Thrill-logo.png" group-title="Movies" ,THRILL
 http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
 
 //SPORTS
@@ -504,9 +492,9 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://static.epg.best/au/SKYRacing.au.png",Sky 1 Racing
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.epg.best/au/SKYRacing.au.png",Sky 1 Racing
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://static.epg.best/au/SKYRacing.au.png",Sky 2 Racing
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.epg.best/au/SKYRacing.au.png",Sky 2 Racing
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 
 
