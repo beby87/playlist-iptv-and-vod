@@ -57,71 +57,74 @@ http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3677
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports: Arabic 13" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336" group-title="BEIN SPORTS",beIN Sports: Arabic 13
 http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3678
 
-//MALAYSIA CHANNEL
+//Malaysia Channel
 
-#EXTINF:-1 tvg-id="TVIkim.my" tvg-name="TV Ikim SD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA CHANNEL",TV Ikim SD
+#EXTINF:-1 tvg-id="TVIkim.my" tvg-name="TV Ikim SD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="Malaysia Channel",TV Ikim SD
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVIkim.my" tvg-name="TV Ikim HD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA CHANNEL",TV Ikim HD
+#EXTINF:-1 tvg-id="TVIkim.my" tvg-name="TV Ikim HD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="Malaysia Channel",TV Ikim HD
 http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg" group-title="MALAYSIA CHANNEL",Okey Channel (MY)
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg" group-title="Malaysia Channel",Okey Channel (MY)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
-#EXTINF:-1 tvg-id="OKEY.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg" group-title="MALAYSIA CHANNEL",OKEY HD
+#EXTINF:-1 tvg-id="OKEY.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg" group-title="Malaysia Channel",OKEY HD
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tvSUKANlogo_NEW.jpg" group-title="MALAYSIA CHANNEL",RTM SUKAN (MY)
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tvSUKANlogo_NEW.jpg" group-title="Malaysia Channel",RTM SUKAN (MY)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 http://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" group-title="MALAYSIA CHANNEL", BeritaRtm (MY)
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" group-title="Malaysia Channel", BeritaRtm (MY)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png" group-title="MALAYSIA CHANNEL", 101 (MY)
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png" group-title="Malaysia Channel", 101 (MY)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil HD" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="MALAYSIA CHANNEL",Astro Vaanavil HD
+#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil HD" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Malaysia Channel",Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="MALAYSIA CHANNEL", 102 (MY)
+#EXTINF:-1 tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="Malaysia Channel", 102 (MY)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501_300.png" group-title="MALAYSIA CHANNEL",Astro Awani HD
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501_300.png" group-title="Malaysia Channel",Astro Awani HD
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani SD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501_300.png" group-title="MALAYSIA CHANNEL",Astro Awani SD
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani SD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501_300.png" group-title="Malaysia Channel",Astro Awani SD
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="TV2.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="MALAYSIA CHANNEL",102 HD
+#EXTINF:-1 tvg-id="TV2.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="Malaysia ChannelL",102 HD
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-#EXTINF:-1 tvg-id="TV3.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png" group-title="MALAYSIA CHANNEL",103 (720p) [Timeout]
+#EXTINF:-1 tvg-id="TV3.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png" group-title="Malaysia Channel",103 (720p) [Timeout]
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
-#EXTINF:-1 tvg-id="TV9.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MALAYSIA CHANNEL",109 SD
+#EXTINF:-1 tvg-id="TV9.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia Channel",109 SD
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
-#EXTINF:-1 tvg-id="DramaSangat.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="MALAYSIA CHANNEL",Drama Sangat SD
+#EXTINF:-1 tvg-id="DramaSangat.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="Malaysia Channel",Drama Sangat SD
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
-#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil HD" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="MALAYSIA CHANNEL",Astro Vaanavil HD
+#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil HD" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Malaysia Channel",Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
-#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil SD" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="MALAYSIA CHANNEL",Astro Vaanavil SD
+#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil SD" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Malaysia Channel",Astro Vaanavil SD
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 
-#EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS SD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="MALAYSIA CHANNEL",TVS SD
+#EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS SD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="Malaysia Channel",TVS SD
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+
+#EXTINF:-1 tvg-id="8TV" group-title="Malaysia Channel" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
+https://mediahomes.github.io/assets/my/ch_8tv.m3u8|Referer=https://www.dailymotion.com
 
 //AhmadTV
 
