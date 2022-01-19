@@ -251,9 +251,6 @@ https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/bandungtv.png" group-title="INDONESIA CHANNEL",Bandung TV
 https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png" group-title="INDONESIA CHANNEL",Dunia Lain
-http://forsat.men:8888/merpatistream/merpati99/910
-
 //news
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
