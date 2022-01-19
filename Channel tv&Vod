@@ -88,7 +88,7 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil HD" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="General",Astro Vaanavil HD
+#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil HD" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="MALAYSIA CHANNEL",Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="MALAYSIA CHANNEL", 102 (MY)
@@ -446,7 +446,7 @@ http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYMJfrDk/tvn-movies-2.jpg" group-title="Movies" ,TVN MOVIES
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/02zdmHYy/cine-world.png" grpup-title="Moviesroup-title="" ,CINEMA WOLRD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02zdmHYy/cine-world.png" group-title="Movies" ,Cinema world.
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvMkLbc4/hits-lama.png" group-title="Movies" ,HITS
