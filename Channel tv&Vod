@@ -2023,6 +2023,52 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india.png" group-title="INDIA CHANNEL", Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTINF:0 group-title="INDIA CHANNEL" tvg-logo="https://i.imgur.com/EaHWWNl.jpg",7Star TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+#EXTINF:0 group-title="INDIA CHANNEL" tvg-logo="https://i.imgur.com/zAQSZeC.png",Sana TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+#EXTINF:0 group-title="INDIA CHANNEL" tvg-logo="http://www.jawaharchannel.in/SEPERATE%20FOLDER/01%20HEADER/Leaf%20Logo.png", JAWAHAR TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+#EXTINF:0 tvg-logo="https://vaanavil.live/wp-content/uploads/2019/10/Vaanavil-Logo-GIF.gif" group-title="INDIA CHANNEL",VANAVIL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+#EXTINF:0, group-title="INDIA CHANNEL" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Madha_TV-black.png",Madha TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
+#EXTINF:0, group-title="INDIA CHANNEL" tvg-logo="https://i.imgur.com/uFiHtQX.png",Malaimurasu
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
+#EXTINF:0 tvg-logo="http://mntv.in/style/images/logo-dark.png" group-title="INDIA CHANNEL",Marutam TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:0, group-title="INDIA CHANNEL" tvg-logo="http://www.erodesrikrishnatv.com/images/logo.png",SRI KRISHNA TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/MHH6UNS.png" group-title="INDIA CHANNEL",Thanthi TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
+
 
 #EXTM3U
 #EXTINF: -1 tvg-id="tvN ID" tvg-logo="https://i.imgur.com/6AmnAWu.png?v=1.0.0.1" group-title="Movies", tvN HD
