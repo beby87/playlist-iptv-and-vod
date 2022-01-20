@@ -382,6 +382,9 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="HITS Movies" tvg-logo="https://i.postimg.cc/90W8vGGH/hits-movie.png" group-title="Movies",HITS Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
+#EXTINF: -1 tvg-id="tvN ID" tvg-logo="https://i.imgur.com/6AmnAWu.png?v=1.0.0.1" group-title="Movies", tvN HD
+http://210.210.155.35/dr9445/h/h20/01.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="https://i.postimg.cc/CLSp6Y4B/axn-logo-vector-png-file-axn-white-hd-png-782.png" group-title="Movies",AXN
@@ -710,8 +713,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/07212020/circle_190x190.png?raw=true" group-title="Kids",Moonbug Kids (FHD)
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NewKidTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="KOREATV/BLACKPINK",New Kid TV (korea)
-https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJrClub.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="Kids",Nick Jr. Club (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="PinkfongBabyShark.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1MGJg18.jpg" group-title="Kids",Pinkfong Baby Shark (1080p)
@@ -1955,6 +1956,23 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="Korean/KPOP", New K-ID
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
+#EXTINF: -1 tvg-id="TVN Movies ID" tvg-logo="https://i.imgur.com/N0TKqJd.png?v=1.0.0.1" group-title="Korean/KPOP", TVN Movies
+http://210.210.155.35/dr9445/h/h21/01.m3u8
+#EXTINF: -1 tvg-id="Sone ID" tvg-logo="https://i.imgur.com/scJZO2S.png?v=1.0.0.1" group-title="Korean/KPOP", ONE HD
+http://210.210.155.35/uq2663/h/h143/01.m3u8
+#EXTINF: -1 tvg-id="K-Plus ID" tvg-logo="https://i.imgur.com/QVj6I9k.png?v=1.0.0.1" group-title="Korean/KPOP", Kplus
+http://210.210.155.35/uq2663/h/h08/01.m3u8
+#EXTINF: -1 tvg-id="KBS Drama" tvg-logo="https://i.postimg.cc/fWPZLyPq/Kbsdrama.png" group-title="Korean/KPOP", KBS DRAMA
+https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Expires=1630652116&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi9rYnNuZHJhbWEtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYzMDY1MjExNn19fV19&Signature=BbCB1-2haKcWsJL8ElCLVkWS7TEa~nstIbTdjA1Ql01ywvo6ahcGUOKGxc1QRZxThEhZ3p2nLNa5ILrQUzoFjUK3wG4IKEDgXVqAlcUOvAcZ-y2wEHqwrGU4OlJRmZygP6OtnzwuGeK5JM6HZdzmkcPK5uTiJYvJ9MQWTSN1y1SFt8dMbvwX5lkjxqPOCWYnCkR98rn84d9e76SLEO5erG6nYUDXrr9yB2~p3PFyuqIsGVg6X7xypYCnpvrUCd3~7RJxmuGXiVSC3MnYnPMC29V0hiVZOr6wHw2eQd5vQ6LOc2KSaiES6izSOZVj6fKwdPBvLv8DVHsRXDxOerDZiA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF: -1 tvg-id="Mnet" tvg-logo="https://i.postimg.cc/6pnBFKYj/images-2021-09-01-T150131-561.jpg" group-title="Korean/KPOP", Mnet
+https://mnet-seezn.pip.cjenm.com/mnet/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI3MzQ4OTIsInBhdGgiOiIvbW5ldC9fZGVmaW5zdF8vczUiLCJ1bm8iOiIxNjIyNzM0NTkyMjg5MTg3ODYiLCJpYXQiOjE2MjI3MzQ1OTJ9.Qy-cUxDm2zSdJFdFLYV_k6HB9wN_MPGm6ntVtOJASbY
+#EXTINF: -1 tvg-id="aniplus" tvg-logo="https://i.postimg.cc/y6SW-YYQV/logo-aniplus-big1.png" group-title="Korean/KPOP", ANIPLUS
+http://210.210.155.35/session/e08c4f70-9550-11eb-8dbb-95a095347988/dr9445/h/h02/01.m3u8
+#EXTINF: -1 tvg-id="animax" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png" group-title="Korean/KPOP", ANIMAX Korea
+http://210.210.155.35/dr9445/h/h144/index.m3u8
+#EXTINF:-1 tvg-id="NewKidTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="Korean/KPOP",New Kid TV (korea)
+https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
+
 
 //INIDA CHANNEL
 
@@ -2012,19 +2030,3 @@ http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
 
-#EXTINF: -1 tvg-id="tvN ID" tvg-logo="https://i.imgur.com/6AmnAWu.png?v=1.0.0.1" group-title="Movies", tvN HD
-http://210.210.155.35/dr9445/h/h20/01.m3u8
-#EXTINF: -1 tvg-id="TVN Movies ID" tvg-logo="https://i.imgur.com/N0TKqJd.png?v=1.0.0.1" group-title="Korean/KPOP", TVN Movies
-http://210.210.155.35/dr9445/h/h21/01.m3u8
-#EXTINF: -1 tvg-id="Sone ID" tvg-logo="https://i.imgur.com/scJZO2S.png?v=1.0.0.1" group-title="Korean/KPOP", ONE HD
-http://210.210.155.35/uq2663/h/h143/01.m3u8
-#EXTINF: -1 tvg-id="K-Plus ID" tvg-logo="https://i.imgur.com/QVj6I9k.png?v=1.0.0.1" group-title="Korean/KPOP", Kplus
-http://210.210.155.35/uq2663/h/h08/01.m3u8
-#EXTINF: -1 tvg-id="KBS Drama" tvg-logo="https://i.postimg.cc/fWPZLyPq/Kbsdrama.png" group-title="Korean/KPOP", KBS DRAMA
-https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Expires=1630652116&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi9rYnNuZHJhbWEtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYzMDY1MjExNn19fV19&Signature=BbCB1-2haKcWsJL8ElCLVkWS7TEa~nstIbTdjA1Ql01ywvo6ahcGUOKGxc1QRZxThEhZ3p2nLNa5ILrQUzoFjUK3wG4IKEDgXVqAlcUOvAcZ-y2wEHqwrGU4OlJRmZygP6OtnzwuGeK5JM6HZdzmkcPK5uTiJYvJ9MQWTSN1y1SFt8dMbvwX5lkjxqPOCWYnCkR98rn84d9e76SLEO5erG6nYUDXrr9yB2~p3PFyuqIsGVg6X7xypYCnpvrUCd3~7RJxmuGXiVSC3MnYnPMC29V0hiVZOr6wHw2eQd5vQ6LOc2KSaiES6izSOZVj6fKwdPBvLv8DVHsRXDxOerDZiA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-#EXTINF: -1 tvg-id="Mnet" tvg-logo="https://i.postimg.cc/6pnBFKYj/images-2021-09-01-T150131-561.jpg" group-title="Korean/KPOP", Mnet
-https://mnet-seezn.pip.cjenm.com/mnet/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI3MzQ4OTIsInBhdGgiOiIvbW5ldC9fZGVmaW5zdF8vczUiLCJ1bm8iOiIxNjIyNzM0NTkyMjg5MTg3ODYiLCJpYXQiOjE2MjI3MzQ1OTJ9.Qy-cUxDm2zSdJFdFLYV_k6HB9wN_MPGm6ntVtOJASbY
-#EXTINF: -1 tvg-id="aniplus" tvg-logo="https://i.postimg.cc/y6SW-YYQV/logo-aniplus-big1.png" group-title="Korean/KPOP", ANIPLUS
-http://210.210.155.35/session/e08c4f70-9550-11eb-8dbb-95a095347988/dr9445/h/h02/01.m3u8
-#EXTINF: -1 tvg-id="animax" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png" group-title="Korean/KPOP", ANIMAX Korea
-http://210.210.155.35/dr9445/h/h144/index.m3u8
