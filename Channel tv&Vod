@@ -1953,9 +1953,6 @@ http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
 http://51.81.66.195:1935/krtv/mbc_540/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_drama.png" group-title="KOREA", KBS DRAMA
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/348520
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/arirang.png" group-title="KOREA", ARIRANG
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="INDIA CHANNEL",Zee Cinema UK
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
 
@@ -1996,7 +1993,7 @@ http://210.210.155.35/uq2663/h/h19/01.m3u8
 http://redlabmcdn.s.llnwi.net/jp01/bs14/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KOREA", TV TOKYO
 http://redlabmcdn.s.llnwi.net/jp04/ryowa6/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aniplus_kr_hd.png" group-title="KOREA", ANIPLUS
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aniplus_kr_hd.png" group-title="Kids", ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 #EXTINF:-1, tvg-id="719" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Animax.png" tvg-name="ANIMAX"  group-title="Kids",ANIMAX
 http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
@@ -2013,13 +2010,12 @@ http://api.aniflix.vip/kor/anione.m3u8
 http://api.aniflix.vip/kor/anibox.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="KOREA", New K-ID
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="KOREA", New K-ID 2
-https://newidco-newkid-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dHVfGex.png" group-title="KOREA", New K-MOVIES
 https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
 
+
 //INIDA CHANNEL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="INDIA", 9XM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="INDIA CHANNEL", 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MASTIII.png" group-title="INDIA CHANNEL", Mastii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
@@ -2029,7 +2025,7 @@ https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 
 #EXTM3U
-#EXTINF: -1 tvg-id="tvN ID" tvg-logo="https://i.imgur.com/6AmnAWu.png?v=1.0.0.1" group-title="KOREA", tvN HD
+#EXTINF: -1 tvg-id="tvN ID" tvg-logo="https://i.imgur.com/6AmnAWu.png?v=1.0.0.1" group-title="Movies", tvN HD
 http://210.210.155.35/dr9445/h/h20/01.m3u8
 #EXTINF: -1 tvg-id="TVN Movies ID" tvg-logo="https://i.imgur.com/N0TKqJd.png?v=1.0.0.1" group-title="KOREA", TVN Movies
 http://210.210.155.35/dr9445/h/h21/01.m3u8
@@ -2043,5 +2039,5 @@ https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Expires=1630
 https://mnet-seezn.pip.cjenm.com/mnet/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI3MzQ4OTIsInBhdGgiOiIvbW5ldC9fZGVmaW5zdF8vczUiLCJ1bm8iOiIxNjIyNzM0NTkyMjg5MTg3ODYiLCJpYXQiOjE2MjI3MzQ1OTJ9.Qy-cUxDm2zSdJFdFLYV_k6HB9wN_MPGm6ntVtOJASbY
 #EXTINF: -1 tvg-id="aniplus" tvg-logo="https://i.postimg.cc/y6SW-YYQV/logo-aniplus-big1.png" group-title="KOREA", ANIPLUS
 http://210.210.155.35/session/e08c4f70-9550-11eb-8dbb-95a095347988/dr9445/h/h02/01.m3u8
-#EXTINF: -1 tvg-id="animax" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png" group-title="KOREA", ANIMAX
+#EXTINF: -1 tvg-id="animax" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png" group-title="KOREA", ANIMAX Korea
 http://210.210.155.35/dr9445/h/h144/index.m3u8
