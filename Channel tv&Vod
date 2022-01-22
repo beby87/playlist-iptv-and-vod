@@ -2083,7 +2083,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 //radio indo
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/whb4utLhtp.png" group-title="Radio+", Era FM
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/whb4utLhtp.png" group-title="Radio", Era FM
 http://astro2.rastream.com/era
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/U64mECYBuK.jpg" group-title="RADIO INDO+", Hitz FM
