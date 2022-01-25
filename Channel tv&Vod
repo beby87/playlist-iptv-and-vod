@@ -148,7 +148,7 @@ http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63RF7F7F/IMG-0196.png" group-title="INDONESIA CHANNEL" ,INDOSIAR HD
-http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
+http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=indosiar&goodbye=Khoerul_Television=0
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="http://dusktill.masuk.web.id/img/sctv.png" group-title="INDONESIA CHANNEL",SCTV
