@@ -7,6 +7,11 @@ http://210.210.155.35:80/qwr9ew/s/s10/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="OKTV.MACAN" tvg-name="OKTV" tvg-logo="https://i.postimg.cc/jds9cnKF/oktv-removebg-preview.png" group-title="Full indosiar channel",OKTV
+https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="INDOSIAR.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.postimg.cc/Pfm1PGQh/1200px-Indosiar-2015-svg-removebg-preview.png" group-title="Full indosiar channel" ,INDOSIAR HD
 http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=indosiar&goodbye=Khoerul_Television=0
 
