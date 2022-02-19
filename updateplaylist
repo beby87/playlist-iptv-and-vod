@@ -711,9 +711,9 @@ https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsJB51TT/love-nature-4k.png" group-title="Knowledge" ,Love Nature SD
 http://bamus-eng-roku.amagi.tv/playlist404p.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8tMVqrr/Smithsonian-Channel.png" group-title="Knowledge" ,Smithsonian Channel HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyzDh06D/12379-removebg-preview.png" group-title="Knowledge" ,Smithsonian Channel HD
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8tMVqrr/Smithsonian-Channel.png" group-title="Knowledge" ,Smithsonian Channel SD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyzDh06D/12379-removebg-preview.png" group-title="Knowledge" ,Smithsonian Channel SD
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncn6s4VW/1642477706280.png" group-title="Knowledge" ,Nat Geo People HD
