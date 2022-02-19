@@ -544,11 +544,6 @@ http://117.148.179.134/PLTV/88888888/224/3221231570/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="tvN Movies" tvg-logo="https://i.postimg.cc/RhshYCqc/OIP-2.jpg" group-title="Movies",tvN Movies
-https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="HBOAsia.us" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/xT5nvQvQ/HBO-logo-black.png" group-title="Movies",HBO
 https://on-load.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
@@ -644,7 +639,6 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="tvN" tvg-logo="https://i.postimg.cc/HnhzR47X/2560px-Logo-tv-N-svg.png" group-title="Movies",tvN
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvMkLbc4/hits-lama.png" group-title="Movies" ,HITS
 http://210.210.155.35:80/dr9445/h/h37/02.m3u8
