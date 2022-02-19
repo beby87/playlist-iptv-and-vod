@@ -549,7 +549,7 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="HBOAsia.us" tvg-name="HBO HD" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/1HXXPw7X8jGwSVNPGFXrizzpRLQ=/400x226/filters:quality(75)/vidio-web-prod-video/uploads/video/image/113508/hbo-blended-1d4aca.jpg" group-title="Movies",HBO
+#EXTINF:0 tvg-id="HBOAsia.us" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/xT5nvQvQ/HBO-logo-black.png" group-title="Movies",HBO
 https://on-load.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -640,9 +640,6 @@ http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYMJfrDk/tvn-movies-2.jpg" group-title="Movies" ,TVN MOVIES
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/02zdmHYy/cine-world.png" group-title="Movies" ,Cinema world.
-http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvMkLbc4/hits-lama.png" group-title="Movies" ,HITS
 http://210.210.155.35:80/dr9445/h/h37/02.m3u8
