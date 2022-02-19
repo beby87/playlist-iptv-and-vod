@@ -1115,24 +1115,24 @@ https://www.dropbox.com/s/57976od61vr3n8u/%5BSHANA%5DItaewon.Class.E15.200320.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bA3dcs8.png" group-title="KOREAN DRAMA", ITAEWON CLASS 16
 https://www.dropbox.com/s/v01h009e3ni7vg4/%5BSHANA%5DItaewon.Class.E16.200321.360p-NEXT.mp4?dl
 
--Sport-
+-Sports-
 
-#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/customthumb/2013/07/03/82/bein_sport_logo.jpg?w=700&q=90" group-title="Sport",BEIN SPORTS 1 
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/customthumb/2013/07/03/82/bein_sport_logo.jpg?w=700&q=90" group-title="Sports",BEIN SPORTS 1 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
-#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/customthumb/2013/07/03/82/bein_sport_logo.jpg?w=700&q=90" group-title="Sport",BEIN SPORTS 2
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/customthumb/2013/07/03/82/bein_sport_logo.jpg?w=700&q=90" group-title="Sports",BEIN SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/customthumb/2013/07/03/82/bein_sport_logo.jpg?w=700&q=90" group-title="Sport",BEIN SPORTS 1 
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/customthumb/2013/07/03/82/bein_sport_logo.jpg?w=700&q=90" group-title="Sports",BEIN SPORTS 1 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
-#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/customthumb/2013/07/03/82/bein_sport_logo.jpg?w=700&q=90" group-title="Sport",BEIN SPORTS 2
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/customthumb/2013/07/03/82/bein_sport_logo.jpg?w=700&q=90" group-title="Sports",BEIN SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
