@@ -2,9 +2,6 @@
 
 -FULL INDOSIAR CHANNEL-
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/daaitv.png" group-title="Full indosiar channel",DAAI TV
-https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G3Pmjkd0/IMG-0202.png" group-title="Full indosiar channel" ,ELSHINTATV
 http://210.210.155.35:80/qwr9ew/s/s10/01.m3u8
 
