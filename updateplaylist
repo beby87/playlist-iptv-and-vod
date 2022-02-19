@@ -412,9 +412,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/
 #EXTINF:-1 tvg-id="CampSpoopy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/t3Jsks7.png" group-title="Kids",Camp Spoopy (1080p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
-#EXTINF:-1 tvg-id="CampSpoopy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/t3Jsks7.png" group-title="Kids",Camp Spoopy (1080p)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
-
 #EXTINF:-1 tvg-id="DuckTV.sk" tvg-country="SK" tvg-language="English" tvg-logo="https://i.imgur.com/Qw8x6Os.png" group-title="Kids",Duck TV (720p)
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 
