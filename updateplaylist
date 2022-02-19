@@ -236,7 +236,7 @@ http://122.248.43.138:1935/ch7/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwJC6MHv/Sakti-tv.png" group-title="Indonesia",Sakti TV Madiun
 http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MyTV" tvg-name="MyTV" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/mzCjJY7TqiT-BYLhrRRDcuSGMCk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6711/mytv-tv-stream-a36d9f.jpg" group-title="Indonesia", MyTV
+#EXTINF:-1 tvg-id="MyTV" tvg-name="MyTV" tvg-logo="https://i.postimg.cc/CL7v77tR/TVDIGITALINDOshareext.jpg" group-title="Indonesia", MyTV
 https://teveMobile.us.to/sc/start.m3u8?id=6711
 
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Indonesia", Biznet Adventure 4K
