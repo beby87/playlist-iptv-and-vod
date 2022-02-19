@@ -151,7 +151,7 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 http://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8P6QJZrG/britartm-removebg-preview.png" group-title="Malaysia", BeritaRtm (MY)
+#EXTINF:-1 tvg-id="001" tvg-name="BES RTM" tvg-logo="https://i.postimg.cc/8P6QJZrG/britartm-removebg-preview.png" group-title="Malaysia",BERITA RTM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
