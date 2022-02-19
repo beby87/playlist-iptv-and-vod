@@ -306,7 +306,7 @@ http://wowza60.indostreamserver.com:1935/muadztv/live/playlist.m3u8
 #EXTINF:-1 group-title="Muslim TV" tvg-logo="http://dusktill.masuk.web.id/img/izzahtv.png",IZZAH TV
 https://streaming.sigraduta.co.id/izzahtv.m3u8
 
-#EXTINF:-1 group-title="Muslim TV" tvg-logo="http://dusktill.masuk.web.id/img/izzahtv.png",IZZAH TV 2
+#EXTINF:-1 group-title="Muslim TV" tvg-logo="http://dusktill.masuk.web.id/img/izzahtv.png",IZZAH TV
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 
 #EXTINF:-1 group-title="Muslim TV" tvg-logo="http://dusktill.masuk.web.id/img/wesaltv.png", Wesaltv
