@@ -768,7 +768,7 @@ https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3xRx1wz1/1280px-Crime-Investigation-Logo-10-2019-svg.png" group-title="Knowledge",Crime Investigation
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/pXNZGd7z/generic-thumb-removebg-preview.png" group-title="Knowledge",Crime Investigation
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 
