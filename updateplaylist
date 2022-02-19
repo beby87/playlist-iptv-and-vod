@@ -197,9 +197,6 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil HD" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Malaysia",Astro Vaanavil HD
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
-#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil SD" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Malaysia",Astro Vaanavil SD
-https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
-
 #EXTINF:-1 tvg-id="122" tvg-name="TVS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="Malaysia",TVS (CH122)
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
