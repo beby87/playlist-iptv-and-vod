@@ -635,14 +635,19 @@ https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zfTxJPZ/one.jpg" group-title="Movies" ,ONE
 http://210.210.155.35:80/uq2663/h/h143/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYMJfrDk/tvn-movies-2.jpg" group-title="Movies" ,TVN MOVIES
-http://210.210.155.35:80/dr9445/h/h21/01.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="tvN Movies" tvg-logo="https://i.postimg.cc/sDNWFsr4/unnamed-removebg-preview.png" group-title="Movies",tvN Movies
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="tvN" tvg-logo="https://i.postimg.cc/HnhzR47X/2560px-Logo-tv-N-svg.png" group-title="Movies",tvN
+https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvMkLbc4/hits-lama.png" group-title="Movies" ,HITS
 http://210.210.155.35:80/dr9445/h/h37/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Cxc1xZk9/rock.jpg" group-title="Movies" ,ROCK ENTERTAINMENT
-http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNTPDkhc/extreme-multimedia-page-banner-logo-2x.png" group-title="Movies" ,ROCK EXTREME
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
