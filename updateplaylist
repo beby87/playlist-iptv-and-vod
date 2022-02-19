@@ -375,9 +375,6 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/50338/s50338_h3_aa.png" group-title="Kids",BabyFirst TV (1080p)
 https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BabyTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/9sWVrgR.png" group-title="Kids",Baby TV (480p)
-http://okkotv-live.cdnvideo.ru/channel/BabyTV.m3u8
-
 #EXTINF:-1 tvg-id="BangBang.al" tvg-country="AL" tvg-language="My" tvg-logo="https://i.imgur.com/TD4J83Q.png" group-title="Kids",Bang Bang (576p)
 http://93.157.62.180/BangBang/index.m3u8
 
@@ -388,6 +385,11 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u
 
 #EXTINF:-1 tvg-id="BratTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lhjj94a.png" group-title="Kids",Brat TV
 https://brat-rakuten.amagi.tv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/babytv.png" group-title="Kids",Baby TV
+https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 #EXTINF:-1 tvg-id="BumblebeeTVCountryBoyKidsVideo.us" tvg-country="US" tvg-language="Malay" tvg-logo="https://i.imgur.com/p14DjHo.png" group-title="Kids",Bumblebee TV Country Boy Kids Video (720p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
