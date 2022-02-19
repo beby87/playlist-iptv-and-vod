@@ -209,6 +209,10 @@ https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
 #EXNTNF:-1 tvg-id="Boo" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",Boo HD (ch404)
 https://w.nasvpn.xyz:8080/smartviptv/smartviptv/177
 
+#EXTINF:-1 tvg-id="LIFE" group-title="Full indosiar channel" tvg-logo="https://logos-download.com/wp-content/uploads/2018/04/Life_Magazine_logo_red.png",LIFE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.vers
+
 -Indonesia-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brm6VcqJ/aditv-logo.png" group-title="Indonesia",ADI TV Yogyakarta
@@ -219,6 +223,24 @@ http://wms.klikhost.com/bayutv/live/chunklist_w54273383.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qqV37NW/Balikpapan-TV.png" group-title="Indonesia", BTV Balikpapan
 http://122.248.43.138:1935/ch10/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j21T26cd/CTV-Banten.png" group-title="Indonesia", Cahaya TV Banten
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CgbHPL4/Padang-TV.png" group-title="Indonesia", Padang TV
+http://122.248.43.138:1935/ch16/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hZ92sSy/Paltv-Palembang.png" group-title="Indonesia", PAL TV Palembang
+http://122.248.43.138:1935/ch7/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwJC6MHv/Sakti-tv.png" group-title="Indonesia",Sakti TV Madiun
+http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTV" tvg-name="MyTV" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/mzCjJY7TqiT-BYLhrRRDcuSGMCk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6711/mytv-tv-stream-a36d9f.jpg" group-title="Indonesia", MyTV
+https://teveMobile.us.to/sc/start.m3u8?id=6711
+
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Indonesia", Biznet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
 
 
