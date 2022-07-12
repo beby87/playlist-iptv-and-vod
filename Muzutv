@@ -1,18 +1,3 @@
-
-<!DOCTYPE>
- 
-<html>
-<head>
-<link rel="icon" type="image/png" href="https://www.astro.com.my">
-<script type="text/javascript">
-window.location = "https://www.astro.com.my"
-</script>
-</head>
-</html>
-
-<noscript>
-
-*http://muzu09.freevar.com*
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -691,6 +676,3 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=782f32d9501ac50dfd783671ade95210&key=9690dcf2368b1664680a8099125ccca9
 #EXTINF:-1 tvg-id="821" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="MuZu | Sports",WWE NETWORK
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
-
-
-</noscript>
